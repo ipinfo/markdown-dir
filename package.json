@@ -1,0 +1,18 @@
+{
+  "name": "markdown-dir",
+  "version": "1.0.0",
+  "description": "compile a folder of markdown files (with frontmatter support)",
+  "keywords": [],
+  "dependencies": {
+    "batch": "^0.5.2",
+    "glob": "^5.0.14",
+    "gray-matter": "^2.0.1",
+    "markdown-render": "ssh://git@github.com:ipinfo/markdown-render.git",
+    "remarkable": "ssh://git@github.com:ipinfo/remarkable.git"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
