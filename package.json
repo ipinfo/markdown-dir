@@ -7,8 +7,8 @@
     "batch": "^0.5.2",
     "glob": "^5.0.14",
     "gray-matter": "^2.0.1",
-    "markdown-render": "ssh://git@github.com:ipinfo/markdown-render.git",
-    "remarkable": "ssh://git@github.com:ipinfo/remarkable.git"
+    "markdown-render": "github:ipinfo/markdown-render",
+    "remarkable": "github:ipinfo/remarkable"
   },
   "devDependencies": {
     "mocha": "*",
